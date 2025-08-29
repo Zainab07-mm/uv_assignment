@@ -5,6 +5,7 @@ This repository contains two projects:
 ## Simple App  
 - Prints "Hello from my-simple-app! -Zainab, PIAIC258932"
 - Includes basic maths calculation
+- Runs with uv run python main.py
 
 ## Packaged App  
 - Prints "Hello from my-packaged-app! -Zainab, PIAIC258932"
